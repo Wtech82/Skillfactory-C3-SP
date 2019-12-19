@@ -1,0 +1,40 @@
+
+.body {
+width: auto;
+height: 90vh;
+background-image: url('../images/1.jpg');
+
+}
+
+.container {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin: 50px 100px 50px 100px;
+	height: 90vh;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.forms {
+	align-self: center;
+	
+
+}
+
+.forms h2  {
+	color: #FFFFFF;
+	font-family: 'Amatic SC';
+	letter-spacing: 0.9px;
+
+}
+
+.forms p  {
+	color: #FFFFFF;
+
+}
+
+.logo h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 100px;
+	color: #FFD700
+}
